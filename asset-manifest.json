@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Validation-loginform/static/css/main.7b118fb7.css",
+    "main.js": "/Validation-loginform/static/js/main.a10eada3.js",
+    "static/js/787.dcd0ea97.chunk.js": "/Validation-loginform/static/js/787.dcd0ea97.chunk.js",
+    "static/media/registration-form-8.jpg": "/Validation-loginform/static/media/registration-form-8.973d136a535dfe191ab6.jpg",
+    "index.html": "/Validation-loginform/index.html",
+    "main.7b118fb7.css.map": "/Validation-loginform/static/css/main.7b118fb7.css.map",
+    "main.a10eada3.js.map": "/Validation-loginform/static/js/main.a10eada3.js.map",
+    "787.dcd0ea97.chunk.js.map": "/Validation-loginform/static/js/787.dcd0ea97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b118fb7.css",
+    "static/js/main.a10eada3.js"
+  ]
+}
